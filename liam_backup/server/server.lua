@@ -1,5 +1,5 @@
 ---| Script by Liam-Walker-FiveM          |---
----| DO NOT CHANGE SCRIPT AUTHOR 		  |---
+---| DO NOT CHANGE SCRIPT AUTHOR 	  |---
 ---| IF YOU NEED A SCRIPT THEN CONTACT ME |---
 ---| DISCORD: Liam_Walker#0924            |---
 ESX = nil
